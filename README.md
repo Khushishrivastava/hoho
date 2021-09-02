@@ -1,2 +1,2 @@
-# hoho
-play and defend yourself
+# PiratesInvasion
+pirates invasion game
